@@ -1,0 +1,1 @@
+# sakura-bindb-consumer-aws-lambda
